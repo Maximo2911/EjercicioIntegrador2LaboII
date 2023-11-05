@@ -1,0 +1,17 @@
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\bin\Debug\net6.0-windows\TurnoLicencia.exe
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\bin\Debug\net6.0-windows\TurnoLicencia.deps.json
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\bin\Debug\net6.0-windows\TurnoLicencia.runtimeconfig.json
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\bin\Debug\net6.0-windows\TurnoLicencia.dll
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\bin\Debug\net6.0-windows\TurnoLicencia.pdb
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.FrmMain.resources
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.csproj.GenerateResource.cache
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.GeneratedMSBuildEditorConfig.editorconfig
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.AssemblyInfoInputs.cache
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.AssemblyInfo.cs
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.csproj.CoreCompileInputs.cache
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.dll
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\refint\TurnoLicencia.dll
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.pdb
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.genruntimeconfig.cache
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\ref\TurnoLicencia.dll
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.FrmLogin.resources
