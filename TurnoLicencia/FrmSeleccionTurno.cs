@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace TurnoLicencia
 {
-    public partial class FrmLogin : Form
+    public partial class FrmSeleccionTurno : Form
     {
-        public FrmLogin()
+        public FrmSeleccionTurno()
         {
             InitializeComponent();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            FrmMostrarInformacion frmMostrarInfo = new FrmMostrarInformacion();
-            frmMostrarInfo.ShowDialog();
         }
     }
 }

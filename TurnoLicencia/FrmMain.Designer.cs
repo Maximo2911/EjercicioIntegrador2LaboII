@@ -32,6 +32,7 @@
             lblBienvenido = new Label();
             lblTextoBienvenida = new Label();
             btnBienvenido = new Button();
+            label1 = new Label();
             SuspendLayout();
             // 
             // lblBienvenido
@@ -48,20 +49,31 @@
             // 
             lblTextoBienvenida.AutoSize = true;
             lblTextoBienvenida.Font = new Font("SimSun", 11.25F, FontStyle.Regular, GraphicsUnit.Point);
-            lblTextoBienvenida.Location = new Point(68, 128);
+            lblTextoBienvenida.Location = new Point(76, 127);
             lblTextoBienvenida.Name = "lblTextoBienvenida";
-            lblTextoBienvenida.Size = new Size(559, 15);
+            lblTextoBienvenida.Size = new Size(535, 15);
             lblTextoBienvenida.TabIndex = 1;
-            lblTextoBienvenida.Text = "Al mejor sitio donde puedes reserver tu turno para sacar  la licencia";
+            lblTextoBienvenida.Text = "Al mejor sitio donde puedes reservar tu turno para sacar ó renovar";
             // 
             // btnBienvenido
             // 
-            btnBienvenido.Location = new Point(267, 215);
+            btnBienvenido.Location = new Point(273, 215);
             btnBienvenido.Name = "btnBienvenido";
             btnBienvenido.Size = new Size(137, 43);
             btnBienvenido.TabIndex = 2;
             btnBienvenido.Text = "Acceder";
             btnBienvenido.UseVisualStyleBackColor = true;
+            btnBienvenido.Click += btnBienvenido_Click;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("SimSun", 11.25F, FontStyle.Regular, GraphicsUnit.Point);
+            label1.Location = new Point(241, 152);
+            label1.Name = "label1";
+            label1.Size = new Size(191, 15);
+            label1.TabIndex = 3;
+            label1.Text = "la licencia de conducir";
             // 
             // FrmMain
             // 
@@ -69,6 +81,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Info;
             ClientSize = new Size(703, 347);
+            Controls.Add(label1);
             Controls.Add(btnBienvenido);
             Controls.Add(lblTextoBienvenida);
             Controls.Add(lblBienvenido);
@@ -87,5 +100,6 @@
         private Label lblBienvenido;
         private Label lblTextoBienvenida;
         private Button btnBienvenido;
+        private Label label1;
     }
 }

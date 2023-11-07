@@ -14,4 +14,9 @@ W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\ref
 W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.pdb
 W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.genruntimeconfig.cache
 W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\ref\TurnoLicencia.dll
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.FrmTurno.resources
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.FrmDatos.resources
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.Properties.Resources.resources
 W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.FrmLogin.resources
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.FrmSeleccionTurno.resources
+W:\IDE Visual Studio\C#\TurnoLicencia\TurnoLicencia\obj\Debug\net6.0-windows\TurnoLicencia.FrmMostrarInformacion.resources
